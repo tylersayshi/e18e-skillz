@@ -1,0 +1,11 @@
+{
+  "name": "e18e",
+  "description": "Ecosystem-performance fluency for AI coding agents. 1 skill + 4 commands (/audit, /cleanup, /speedup, /levelup) aligned with the e18e initiative (https://e18e.dev). Cross-references against the live e18e module-replacements manifest at runtime.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Tyler Lawson"
+  },
+  "homepage": "https://e18e.dev",
+  "repository": "https://github.com/tyler/e18e-skill",
+  "skills": "./.claude/skills"
+}

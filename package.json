@@ -1,0 +1,29 @@
+{
+  "name": "e18e-skill",
+  "version": "0.1.0",
+  "description": "Skills and commands for AI coding agents aligned with the e18e initiative (https://e18e.dev) — ecosystem-performance work for JavaScript packages.",
+  "keywords": [
+    "e18e",
+    "ecosystem",
+    "performance",
+    "dependencies",
+    "bundle-size",
+    "cleanup",
+    "modernization",
+    "skills",
+    "claude-code",
+    "ai"
+  ],
+  "license": "Apache-2.0",
+  "homepage": "https://e18e.dev",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tyler/e18e-skill.git"
+  },
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "clean": "rm -rf .claude/skills"
+  }
+}
