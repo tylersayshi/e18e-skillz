@@ -5,7 +5,7 @@
     "description": "Ecosystem-performance fluency for AI harnesses. 1 skill, 4 commands (one per e18e pillar), runtime-verified against the live module-replacements manifest."
   },
   "owner": {
-    "name": "Tyler Lawson"
+    "email": "hi@tyler.fun"
   },
   "plugins": [
     {
@@ -13,7 +13,7 @@
       "description": "Skills and commands for JavaScript ecosystem-performance work. 4 user-invocable commands (/audit, /cleanup, /speedup, /levelup), each with focused sub-modes, plus the main e18e skill with references for cleanup, speedup, levelup, module replacements, native replacements, tooling, and contributing. Replacement recommendations are verified against the live es-tooling/module-replacements manifest at runtime.",
       "version": "0.1.0",
       "author": {
-        "name": "Tyler Lawson"
+        "email": "hi@tyler.fun"
       },
       "source": "./",
       "category": "performance",
