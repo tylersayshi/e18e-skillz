@@ -99,6 +99,6 @@ Patterns, replacements, and tooling move fast in this ecosystem. PRs that update
 
 ## License
 
-Apache 2.0. See [LICENSE](LICENSE).
+Beerware. See [LICENSE](LICENSE).
 
-Structure and workflow pattern adapted from [impeccable](https://github.com/pbakaus/impeccable). Domain content adapted from the [e18e initiative](https://e18e.dev) and associated repositories. See [NOTICE.md](NOTICE.md) for attribution. Not officially affiliated with e18e.
+Not officially affiliated with e18e.
